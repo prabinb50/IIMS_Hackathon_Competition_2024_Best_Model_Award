@@ -11,9 +11,9 @@ Design and train an image segmentation model on an autonomous vehicle dataset. T
 
 **Deliverables**<br>
 **Model:** A trained image segmentation model capable of accurately segmenting the dataset classes such as lanes, vehicles, pedestrians, traffic signs, and obstacles.<br>
-**Codebase:** A well-documented codebase that includes:<br>
+**Codebase:** A well-documented codebase that includes:
 - Data preprocessing steps.
-- Model training and evaluation scripts.<br>
+- Model training and evaluation scripts.
 **Presentation:** A short presentation of 5 minutes including:<br>
 - An overview of the approach and methodologies used.
 - Description of the model architecture.
