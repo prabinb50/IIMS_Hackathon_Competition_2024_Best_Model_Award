@@ -14,17 +14,20 @@ Design and train an image segmentation model on an autonomous vehicle dataset. T
 **Codebase:** A well-documented codebase that includes:
 - Data preprocessing steps.
 - Model training and evaluation scripts.
+
 **Presentation:** A short presentation of 5 minutes including:<br>
 - An overview of the approach and methodologies used.
 - Description of the model architecture.
 - Evaluation results with performance metrics.
 - Analysis of the model's performance under different conditions.
-- Conclusion and potential improvements.<br>
+- Conclusion and potential improvements.
+
 **Evaluation Criteria**<br>
 1. Accuracy and Correctness: How accurately and robustly the model segments images in diverse conditions.
 2. Innovation and Creativity: Unique approaches and techniques used to tackle the segmentation challenges.
 3. Team Collaboration and Synergy: Collaboration among team members.
-4. Documentation and Presentation: Quality and clarity of the codebase and the understanding.<br>
+4. Documentation and Presentation: Quality and clarity of the codebase and the understanding.
+
 **Resources**<br>
 - A labeled dataset of images from autonomous vehicles provided through Slack after registration.
 - Support and mentorship from industry experts.
